@@ -1,4 +1,6 @@
 # EX-05 Implement Simple Hill Climbing Algorithm
+**Developed By: Sanjay S**<br>
+**Register No: 212221230086**
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<br>
 Mutating a Single Character at each iteration.
@@ -65,8 +67,6 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 
-**Developed By: KARTHIKEYAN R**<br>
-**Register No: 212222240046**
 
 <table>
 <tr>
